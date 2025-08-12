@@ -1,5 +1,4 @@
 # mobile_company_Megaline
-Megaline wants to develop a machine learning model that, by analyzing the behavior of its customers, recommends one of its new plans: Smart or Ultra. It already has the processed data of subscribers who have changed plans, and the goal is to create a classification model with a minimum accuracy of 0.75, verifying its accuracy with the available data set.
 
 Megaline quiere desarrollar un modelo de machine learning que, analizando el comportamiento de sus clientes, recomiende uno de sus nuevos planes: Smart o Ultra. Ya dispone de los datos procesados de los abonados que han cambiado de plan, y el objetivo es crear un modelo de clasificación con una precisión mínima de 0,75, verificando su exactitud con el conjunto de datos disponible.
 
